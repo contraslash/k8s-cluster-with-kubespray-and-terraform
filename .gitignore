@@ -1,0 +1,6 @@
+.terraform
+
+personal_commands.sh
+
+
+terraform.tfstate*
